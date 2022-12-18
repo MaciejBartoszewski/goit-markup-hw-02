@@ -1,0 +1,66 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
+  background: #ffffff;
+}
+.filters {
+  position: absolute;
+  width: 572px;
+  height: 54px;
+  left: 510px;
+  top: 174px;
+}
+.list-filters {
+  position: absolute;
+  height: 38px;
+  top: 174px;
+  background: #f5f4fa;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+.list-filters:hover {
+  background: #2196f3;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.filter1 {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 510px;
+  top: 174px;
+}
+.filter2 {
+  position: absolute;
+  width: 93px;
+  height: 38px;
+  left: 639px;
+  top: 174px;
+}
+.filter3 {
+  position: absolute;
+  width: 114px;
+  height: 38px;
+  left: 740px;
+  top: 174px;
+}
+.filter4 {
+  position: absolute;
+  width: 91px;
+  height: 38px;
+  left: 862px;
+  top: 174px;
+}
+.filter5 {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 961px;
+  top: 174px;
+}
