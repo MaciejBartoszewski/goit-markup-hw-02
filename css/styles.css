@@ -76,3 +76,235 @@ body {
   top: 262px;
   background: url(Technocrack.jpg);
 }
+h3 {
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 584px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+p {
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 624px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.projects1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 270px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 270px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 270px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 704px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects5 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 625px;
+  top: 704px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects6 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 704px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects7 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 1138px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects8 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 1138px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.projects9 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 1015px;
+  top: 1138px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
+.basketball {
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 270px;
+  background: url(basketball.jpg);
+}
+.seafood {
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 270px;
+  background: url(Restaurant Seafood.jpg);
+}
+.projekt-prime {
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 704px;
+  background: url(Projekt Prime.jpg);
+}
+.website {
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 704px;
+  background: url(Inspiration has no Borders.jpg);
+}
+.magazin {
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1138px;
+  background: url(Magazyn Limited Edition.jpg);
+}
+.projekt-lab {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1138px;
+  background: url(Projekt LAB.jpg);
+}
+.growing-business {
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1138px;
+  background: url(Growing Business.jpg);
+}
+.box1 {
+  width: 322px;
+  height: 70px;
+  left: 239px;
+  top: 584px;
+}
+.box2 {
+  width: 322px;
+  height: 70px;
+  left: 639px;
+  top: 584px;
+}
+.box3 {
+  width: 322px;
+  height: 70px;
+  left: 1039px;
+  top: 584px;
+}
+.box4 {
+  width: 322px;
+  height: 70px;
+  left: 239px;
+  top: 1018px;
+}
+.box5 {
+  width: 322px;
+  height: 70px;
+  left: 649px;
+  top: 1018px;
+}
+.box6 {
+  width: 322px;
+  height: 70px;
+  left: 1039px;
+  top: 1018px;
+}
+.box7 {
+  width: 322px;
+  height: 70px;
+  left: 239px;
+  top: 1452px;
+}
+.box8 {
+  width: 322px;
+  height: 70px;
+  left: 639px;
+  top: 1452px;
+}
+.box9 {
+  width: 322px;
+  height: 70px;
+  left: 1039px;
+  top: 1452px;
+}
+header {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+footer {
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 1628px;
+  background: #2f303a;
+}
