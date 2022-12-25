@@ -296,6 +296,7 @@ p {
   top: 1452px;
 }
 header {
+  position: absolute;
   width: 1600px;
   height: 80px;
   left: 0px;
@@ -303,9 +304,13 @@ header {
   background: #ffffff;
 }
 footer {
+  position: absolute;
   width: 1600px;
   height: 252px;
   left: 0px;
   top: 1628px;
   background: #2f303a;
+}
+.li {
+  list-style: none;
 }
