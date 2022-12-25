@@ -11,6 +11,7 @@ body {
   top: 174px;
 }
 .list-filters {
+  cursor: pointer;
   position: absolute;
   height: 38px;
   top: 174px;
