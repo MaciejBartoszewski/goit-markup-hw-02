@@ -34,32 +34,22 @@ body {
 .filter1 {
   width: 121px;
   height: 38px;
-  left: 510px;
-  top: 174px;
 }
 .filter2 {
   width: 93px;
   height: 38px;
-  left: 639px;
-  top: 174px;
 }
 .filter3 {
   width: 114px;
   height: 38px;
-  left: 740px;
-  top: 174px;
 }
 .filter4 {
   width: 91px;
   height: 38px;
-  left: 862px;
-  top: 174px;
 }
 .filter5 {
   width: 121px;
   height: 38px;
-  left: 961px;
-  top: 174px;
 }
 .button {
   cursor: pointer;
@@ -72,8 +62,6 @@ body {
 h3 {
   width: 322px;
   height: 36px;
-  left: 239px;
-  top: 584px;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -84,8 +72,6 @@ h3 {
 p {
   width: 322px;
   height: 30px;
-  left: 239px;
-  top: 624px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
