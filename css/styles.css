@@ -2,12 +2,10 @@ body {
   font-family: "Roboto", sans-serif;
   font-family: "Raleway", sans-serif;
   background: #ffffff;
-  position: relative;
   width: 1600px;
   height: 1880px;
 }
 .filters {
-  position: absolute;
   width: 572px;
   height: 54px;
   left: 510px;
@@ -15,7 +13,6 @@ body {
 }
 .list-filters {
   cursor: pointer;
-  position: absolute;
   height: 38px;
   top: 174px;
   background: #f5f4fa;
@@ -35,35 +32,30 @@ body {
   color: #ffffff;
 }
 .filter1 {
-  position: absolute;
   width: 121px;
   height: 38px;
   left: 510px;
   top: 174px;
 }
 .filter2 {
-  position: absolute;
   width: 93px;
   height: 38px;
   left: 639px;
   top: 174px;
 }
 .filter3 {
-  position: absolute;
   width: 114px;
   height: 38px;
   left: 740px;
   top: 174px;
 }
 .filter4 {
-  position: absolute;
   width: 91px;
   height: 38px;
   left: 862px;
   top: 174px;
 }
 .filter5 {
-  position: absolute;
   width: 121px;
   height: 38px;
   left: 961px;
@@ -73,11 +65,8 @@ body {
   cursor: pointer;
 }
 .Technocrack {
-  position: absolute;
   width: 370px;
   height: 294px;
-  left: 215px;
-  top: 262px;
   background: url(Technocrack.jpg);
 }
 h3 {
@@ -104,199 +93,51 @@ p {
   letter-spacing: 0.03em;
   color: #757575;
 }
-.projects1 {
+.projects {
   box-sizing: border-box;
-  position: absolute;
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 262px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects2 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 625px;
-  top: 260px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects3 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 262px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects4 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 696px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects5 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 615px;
-  top: 696px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects6 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 696px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects7 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 215px;
-  top: 1130px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects8 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 615px;
-  top: 1130px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-}
-.projects9 {
-  box-sizing: border-box;
-  position: absolute;
-  width: 370px;
-  height: 404px;
-  left: 1015px;
-  top: 1130px;
   background: #ffffff;
   border: 1px solid #eeeeee;
 }
 .basketball {
   width: 370px;
   height: 294px;
-  left: 615px;
-  top: 270px;
   background: url(basketball.jpg);
 }
 .seafood {
   width: 370px;
   height: 294px;
-  left: 1015px;
-  top: 270px;
   background: url(Restaurant Seafood.jpg);
 }
 .projekt-prime {
   width: 370px;
   height: 294px;
-  left: 215px;
-  top: 704px;
   background: url(Projekt Prime.jpg);
 }
 .website {
   width: 370px;
   height: 294px;
-  left: 1015px;
-  top: 704px;
   background: url(Inspiration has no Borders.jpg);
 }
 .magazin {
   width: 370px;
   height: 294px;
-  left: 215px;
-  top: 1138px;
   background: url(Magazyn Limited Edition.jpg);
 }
 .projekt-lab {
-  position: absolute;
   width: 370px;
   height: 294px;
-  left: 615px;
-  top: 1138px;
   background: url(Projekt LAB.jpg);
 }
 .growing-business {
   width: 370px;
   height: 294px;
-  left: 1015px;
-  top: 1138px;
   background: url(Growing Business.jpg);
 }
-.box1 {
+.box {
   width: 322px;
   height: 70px;
-  left: 239px;
-  top: 584px;
-}
-.box2 {
-  width: 322px;
-  height: 70px;
-  left: 639px;
-  top: 584px;
-}
-.box3 {
-  width: 322px;
-  height: 70px;
-  left: 1039px;
-  top: 584px;
-}
-.box4 {
-  width: 322px;
-  height: 70px;
-  left: 239px;
-  top: 1018px;
-}
-.box5 {
-  width: 322px;
-  height: 70px;
-  left: 649px;
-  top: 1018px;
-}
-.box6 {
-  width: 322px;
-  height: 70px;
-  left: 1039px;
-  top: 1018px;
-}
-.box7 {
-  width: 322px;
-  height: 70px;
-  left: 239px;
-  top: 1452px;
-}
-.box8 {
-  width: 322px;
-  height: 70px;
-  left: 639px;
-  top: 1452px;
-}
-.box9 {
-  width: 322px;
-  height: 70px;
-  left: 1039px;
-  top: 1452px;
 }
 header {
   text-decoration: none;
@@ -333,6 +174,8 @@ ul {
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
+  position: absolute;
+  font-family: "Raleway";
 }
 .nav {
   width: 261px;
