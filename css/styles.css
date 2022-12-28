@@ -122,9 +122,12 @@ p {
 header {
   text-decoration: none;
   background: #ffffff;
+  border: 1px solid #ececec;
 }
 footer {
   background: #2f303a;
+  width: 1600px;
+  height: 252px;
 }
 ul {
   list-style: none;
@@ -143,4 +146,43 @@ ul {
   font-family: "Raleway";
   text-decoration: none;
   color: #000000;
+}
+.webstudio2 {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  font-family: "Raleway";
+  text-decoration: none;
+  color: #ffffff;
+}
+.address {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.mail {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-decoration-line: underline;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+}
+.phone {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
 }
